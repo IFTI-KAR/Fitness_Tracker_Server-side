@@ -3,7 +3,9 @@
 # 🏋️‍♂️ Fitness Tracker (assignment12\_category\_007)
 
 **Client repository**: [https://github.com/IFTI-KAR/Fitness\_Tracker\_Client-side](https://github.com/IFTI-KAR/Fitness_Tracker_Client-side)
+
 **Server repository**: [https://github.com/IFTI-KAR/Fitness\_Tracker\_Server-side](https://github.com/IFTI-KAR/Fitness_Tracker_Server-side)
+
 **Live website**: [https://fitness-tracker-faf6f.web.app/](https://fitness-tracker-faf6f.web.app/)
 
 **Admin Login Credentials**
